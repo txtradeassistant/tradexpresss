@@ -1,0 +1,101 @@
+[
+  {
+    "agency": "BOC",
+    "author": "FM Sardan",
+    "content": "Bureau of Customs releases new CMO for solar panels. Duty 0% under ATIGA with Form D, 15% MFN otherwise. Requires DOE cert and ICC for inverters. Effective July 2026.",
+    "date": "2026-07-15",
+    "hs": "8541.40",
+    "id": "boc-cmo-2026-01",
+    "tags": [
+      "BOC",
+      "Solar",
+      "China",
+      "ATIGA",
+      "Duty"
+    ],
+    "title": "BOC CMO Update: Solar Panels HS Classification from China",
+    "url": "#"
+  },
+  {
+    "agency": "FDA",
+    "author": "TradExpress IMPACT",
+    "content": "FDA clarifies lipstick, cream, shampoo, perfume need FDA Notification via e-portal, not LTO. Timeline 7-14 days. Requires GMC, Free Sale Certificate.",
+    "date": "2026-07-10",
+    "hs": "3304.10",
+    "id": "fda-cosmetics-2026",
+    "tags": [
+      "FDA",
+      "Cosmetics",
+      "Permit",
+      "Notification"
+    ],
+    "title": "FDA Advisory: Cosmetics Need Notification Not Registration"
+  },
+  {
+    "agency": "BPI",
+    "content": "Importing rice? Need BPI SPS Clearance, Phytosanitary from origin, NFA allocation. Landed: FOB+freight+35% duty+12% VAT+BPI fees.",
+    "date": "2026-07-08",
+    "hs": "1006.30",
+    "id": "bpi-rice-import",
+    "tags": [
+      "BPI",
+      "Rice",
+      "Agriculture",
+      "SPS"
+    ],
+    "title": "BPI Requirements for Rice Importation 2026"
+  },
+  {
+    "agency": "NTC",
+    "content": "Electronics with RF (routers, phones, Bluetooth) need NTC Type Acceptance Certificate before customs release. 15 days testing.",
+    "date": "2026-07-05",
+    "hs": "8517.62",
+    "id": "ntc-router-2026",
+    "tags": [
+      "NTC",
+      "Electronics",
+      "Permit"
+    ],
+    "title": "NTC Type Approval for Routers, Phones, Bluetooth"
+  },
+  {
+    "agency": "BOC",
+    "author": "TradExpress Academy",
+    "content": "Landed = FOB+Freight+Insurance+Duty(HS)+VAT12%+Doc Stamp+IPF+Arrastre+Wharfage+Brokerage+Trucking+Permits. Use tradexpress.co calculator.",
+    "date": "2026-07-01",
+    "hs": "General",
+    "id": "landed-cost-guide",
+    "tags": [
+      "Guide",
+      "Landed Cost",
+      "BOC"
+    ],
+    "title": "How to Compute Landed Cost Philippines"
+  },
+  {
+    "agency": "DTI",
+    "content": "Ceramic tiles from China need PS License or ICC per shipment. DTI BPS lab testing. Non-compliant subject to seizure.",
+    "date": "2026-06-28",
+    "hs": "6907.21",
+    "id": "dti-ceramic-tiles",
+    "tags": [
+      "DTI",
+      "Ceramic",
+      "BPS"
+    ],
+    "title": "DTI BPS: Ceramic Tiles Need PS Mark or ICC"
+  },
+  {
+    "agency": "IMPACT Analytics",
+    "content": "Insight: China 28.4%, ASEAN 22%, US 9%, Japan 8%, Korea 7%. Electronics 32%. Solar, EV parts rising 18% YoY.",
+    "date": "2026-07-16",
+    "hs": "Analytics",
+    "id": "market-trend-china",
+    "tags": [
+      "Market",
+      "China",
+      "Insight"
+    ],
+    "title": "Market Intelligence: China Top Import Source 28.4%"
+  }
+]

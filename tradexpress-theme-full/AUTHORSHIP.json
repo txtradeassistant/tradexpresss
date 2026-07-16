@@ -1,0 +1,14 @@
+{
+  "publisher": "TradExpress.co",
+  "domain": "https://tradexpress.co",
+  "legal_name": "FM Sardan Customs Brokerage / TradExpress IMPACT",
+  "contacts": [
+    "hello@tradexpress.co",
+    "hello@kailu.dev"
+  ],
+  "role": "writer",
+  "copyright": "\u00a9 2026 TradExpress.co. All articles, tools, dynamic theories, and frameworks are original works authored by TradExpress.co",
+  "license": "All content in this bundle (articles.json, tradexpress.js, tradexpress-dynamic-theory.js, index.html, insight.html) is authored and owned by TradExpress.co",
+  "articles_count": 7,
+  "claim": "TradExpress.co is the writer of all content in this bundle"
+}
