@@ -1,26 +1,16 @@
 {
   "name": "tradexpress-app",
   "version": "1.0.0",
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
-  "main": "ecosystem.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://txtradeassistant@github.com/txtradeassistant/tradexpresss.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/txtradeassistant/tradexpresss/issues"
-  },
-  "homepage": "https://github.com/txtradeassistant/tradexpresss#readme",
   "dependencies": {
-    "next": "^16.2.10",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "vite": "^8.1.5"
   }
 }
