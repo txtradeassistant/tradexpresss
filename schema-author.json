@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "TradExpress.co",
+  "url": "https://tradexpress.co",
+  "email": [
+    "hello@tradexpress.co",
+    "hello@kailu.dev"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "TradExpress.co"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TradExpress.co",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://tradexpress.co/logo.png"
+    }
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "TradExpress.co"
+  },
+  "hasPart": [
+    {
+      "@type": "TechArticle",
+      "headline": "BOC CMO Update: Solar Panels HS Classification from China",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-15"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "FDA Advisory: Cosmetics Need Notification Not Registration",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-10"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "BPI Requirements for Rice Importation 2026",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-08"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "NTC Type Approval for Routers, Phones, Bluetooth",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-05"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "How to Compute Landed Cost Philippines",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-01"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "DTI BPS: Ceramic Tiles Need PS Mark or ICC",
+      "author": "TradExpress.co",
+      "datePublished": "2026-06-28"
+    },
+    {
+      "@type": "TechArticle",
+      "headline": "Market Intelligence: China Top Import Source 28.4%",
+      "author": "TradExpress.co",
+      "datePublished": "2026-07-16"
+    }
+  ]
+}
